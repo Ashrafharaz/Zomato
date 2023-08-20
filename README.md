@@ -1,4 +1,6 @@
 Business Questions
+
+
 What are the most popular Resturants offered by Bangalore restaurants?
 What are the top 10 popular cuisines offered by Bangalore restaurants?
 what are the top 10 expensive rest_types in average?
